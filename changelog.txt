@@ -1,0 +1,4 @@
+*** WooCommerce WumDrop Integration ***
+
+2015.03.01 - version 1.0
+* Initial release #boom

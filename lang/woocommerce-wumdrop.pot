@@ -1,0 +1,186 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-shipping-wumdrop\n"
+"POT-Creation-Date: 2015-02-25 08:58:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-wc-wumdrop-method.php:24
+#: classes/class-wc-wumdrop-method.php:69
+msgid "WumDrop"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:60
+msgid "Enable/Disable"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:62
+msgid "Enable WumDrop delivery method."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:66
+msgid "Method Title"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:68
+msgid "This controls the title that the user sees during checkout."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:75
+msgid "API key"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:77
+msgid "Your WumDrop API key - obtain one for free here: http://nerds.wumdrop.com/ (required)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:84
+msgid "City"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:86
+msgid "The city in which you operate - WumDrop currently serves Cape Town and Johannesburg only."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:89
+msgid "Cape Town"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:90
+msgid "Johannesburg"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:94
+msgid "Pick up location"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:96
+msgid "The full street address where your WumDrop deliveries will be collected (required)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:104
+msgid "Pick up coordinates"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:106
+msgid "The Google Maps coordinates (longitude & latitude) of your pick up location (required)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:113
+msgid "Pick up contact name"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:115
+msgid "The name of the primary contact at the pick up location (required)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:122
+msgid "Pick up contact number"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:124
+msgid "The 10-digit SA phone number of the contact at the pick-up location (required)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:131
+msgid "Pick up remarks"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:133
+msgid "Any additional remarks or instructions for the WumDrop driver when arriving at the pick up location (optional)."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:145
+msgid "WumDrop is enabled, but the <a href=\"%s\">currency</a> is not South African Rand (ZAR) - WumDrop only supports ZAR."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:149
+msgid "WumDrop is enabled, but your <a href=\"%s\">base location</a> is not Gauteng or the Western Cape."
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:204
+msgid "%1$sWe could not locate your address - please make sure it is correct to enable WumDrop courier delivery.%2$s"
+msgstr ""
+
+#: classes/class-wc-wumdrop-method.php:225
+msgid "Your address for WumDrop courier delivery is:%1$sIf this is not correct, please edit your address before placing your order.%2$s"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:268
+msgid "WumDrop delivery order placed."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:302
+msgid "WumDrop delivery order cancelled."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:336
+msgid "WumDrop delivery cancelled."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:345
+msgid "WumDrop delivery ordered."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:381
+msgid "WumDrop Delivery Status:"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:389
+msgid "No delivery ordered"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:390
+msgid "Place order"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:402
+msgid "Cancel"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:409 classes/class-wc-wumdrop.php:476
+msgid " on %1$s @ %2$s"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:413
+msgid "Delivery confirmation"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:419
+msgid "Re-order"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:454
+msgid "WumDrop delivery details"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:464
+msgid "WumDrop is en route to pick up your package."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:467
+msgid "WumDrop is on the way to your door with your package."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:472
+msgid "WumDrop successfully delivered your package"
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:482
+msgid "Here's proof."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:488
+msgid "Your WumDrop delivery has been cancelled."
+msgstr ""
+
+#: classes/class-wc-wumdrop.php:521
+msgid "Unable to work out coordinates automatically - please add them manually."
+msgstr ""
