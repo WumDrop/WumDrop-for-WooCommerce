@@ -1,4 +1,8 @@
 #WumDrop-for-WooCommerce
+
+We believe the delivery business can be done better. A lot better.
+
+WumDrop charges R12 per kilometre, with a minimum fare of R50. Don’t believe us? See for yourself! We don’t charge by weight, or dimension. I mean, have you ever actually weighed a piece of paper? Anyway. If the WumDrop Hero can carry it, we can deliver it.
 __________________________________________________________________________________________
 To install the WumDrop extension on your WordPress site follow these steps:
 
