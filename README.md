@@ -1,14 +1,26 @@
-
+#WumDrop-for-WooCommerce
 __________________________________________________________________________________________
 To install the WumDrop extension on your WordPress site follow these steps:
+
 Install and activate WooCommerce (and click the button to install the WooCommerce pages when prompted)
+
 Install and activate this extension
+
 Go to WooCommerce > Settings in the admin menu
+
 Set your base location to either the Western Cape or Gauteng
+
 Set your currency to South African Rand
+
 Go to the Shipping tab and click on the WumDrop link
+
 Enable the WumDrop delivery method and fill in all of the other fields - the pick up address field will auto complete from Google and it will fill in the coordinates automatically.
-Once you've done that you can go to the frontend and add any product to your cart (see here for adding dummy product data to your site if you need to - makes it easier to test). Once you have something in your cart go to the checkout and fill in your address details. Once you have filled in a complete shipping address then the WumDrop delivery method will become available in the box at the bottom.
+
+Once you've done that you can go to the frontend and add any product to your cart (see here for adding dummy product data to your site if you need to - makes it easier to test). 
+
+Once you have something in your cart go to the checkout and fill in your address details. 
+
+Once you have filled in a complete shipping address then the WumDrop delivery method will become available in the box at the bottom.
 
 For testing, it's easiest to select bank transfer as your payment method, so just do that and complete the checkout. At this point the order is in the 'pending payment' status as the store will be waiting on the bank transfer.
 
